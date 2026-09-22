@@ -24,7 +24,7 @@ const stackGroups = [
   { title: "Tools & systems", icon: Container, items: ["Git", "GitHub", "Docker", "REST APIs", "JWT", "WordPress", "WooCommerce"] },
 ];
 const projects = [
-  { title: "VM Academy", category: "Education", image: vmAcademy, number: "01", description: "A comprehensive education and college management platform connecting admissions, courses, enquiries, recruiters, scholarships, and institutional content.", tech: ["Laravel", "React", "MySQL", "REST API"] },
+  { title: "VM Academy", category: "Education", image: vmAcademy, number: "01", description: "A comprehensive education and college management platform connecting admissions, courses, enquiries, recruiters, scholarships, and institutional content.", tech: ["Laravel", "MySQL", "REST API"] },
   { title: "Village My City", category: "Enterprise", image: villageMyCity, number: "02", description: "A multi-module business and community platform engineered around enterprise dashboards, connected APIs, and scalable operational workflows.", tech: ["Node.js", "React", "PostgreSQL", "API"] },
   { title: "SA Pro", category: "Business", image: saPro, number: "03", description: "Oil and lubrication operations software covering inventory, procurement, sales, invoicing, vendors, customers, reporting, and role-based access.", tech: ["Laravel", "JavaScript", "MySQL", "RBAC"] },
   { title: "Grat-Lo", category: "SaaS", image: gratLo, number: "04", description: "A membership and digital card SaaS with offers, events, ticketing, QR generation, vendor management, and role-specific dashboards.", tech: ["Next.js", "Node.js", "PostgreSQL", "JWT"] },
